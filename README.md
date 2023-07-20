@@ -1,6 +1,6 @@
 ![preview](images/logo-preview.png)
 
-# JMeter Allure reporting
+# performance-test-allure-reporting
 
 ## Introduction
 - Are you writing functional tests in JMeter?
