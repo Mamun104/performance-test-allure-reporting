@@ -2,9 +2,6 @@
 
 # JMeter Allure reporting
 
-[![Stars](https://img.shields.io/github/stars/nonealexq/jmeter-allure-reporting?style=social)](https://github.com/nonealexq/jmeter-allure-reporting/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/nonealexq/jmeter-allure-reporting?style=social)](https://github.com/nonealexq/jmeter-allure-reporting/watchers)
----
 ## Introduction
 - Are you writing functional tests in JMeter?
 - Do you find it difficult to understand what went wrong using standard means?
